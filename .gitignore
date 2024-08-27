@@ -1,0 +1,17 @@
+clean_cash_flow_davivienda.py
+dash_board_fpersonal.pbix
+evalua-objetivamente-tus-finanzas-personales.xlsx
+flujo_2019-01-01-2020-11-03.csv
+ToDo.txt
+data/*
+Inversion/Fondeo300USD_IBKR.png
+Untitled.ipynb
+test_parsers_pdf.py
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
+legacy/parser_bancolombia_pdf.py
+legacy/parser_davivienda_pdf.py
+legacy/parser_nu_pdf.py
+legacy/parser_rappi_pdf.py
+output/*
+temp/*
+venv/
