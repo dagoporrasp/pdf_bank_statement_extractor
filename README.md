@@ -44,7 +44,18 @@ Para ejecutar la aplicación, simplemente utiliza el siguiente comando:
 python extractosPDF_app.py
 ```
 
-Esto abrirá la interfaz gráfica donde podrás seleccionar los archivos PDF de los extractos bancarios y procesarlos para extraer la información.
+1. Esto abrirá la interfaz gráfica donde podrás seleccionar los archivos PDF de los extractos bancarios y procesarlos para extraer la información.
+
+<p align="center">
+<!-- ![Alt text](static\Home_Extractos_app.jpg "Home") -->
+<img src="static\Home_Extractos_app.jpg" alt="drawing" width="300"/>
+</p>
+
+LLena el formulario y elige si desear procesar únicamente un archivo ó un directorio que contenta los extractos Bancarios.
+
+<p align="center">
+<img src="static\form_Extractos_app.jpg" alt="drawing" width="300"/>
+</p>
 
 ## Estructura del Proyecto
 - **/bank_parsers**: Módulos para procesar extractos bancarios específicos de cada banco.
